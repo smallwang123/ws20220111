@@ -1,0 +1,9 @@
+#include <stdio.h>
+int main()
+{
+printf("1111111111");
+printf("1111111111");
+printf("1111111111");
+printf("1111111111");
+printf("1111111111");
+}
